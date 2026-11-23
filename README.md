@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Andrei Fratiman
+
+Senior .NET developer in Iasi, Romania. 7 years building and maintaining business-critical .NET applications: WinForms, Windows services, SOAP and REST APIs, SQL Server.
+
+Currently building **[Bac Prep](https://github.com/fandreic/bac-prep)**, a .NET 10 modular monolith (ASP.NET Core minimal APIs, EF Core, SQL Server, Docker, Azure) that helps Romanian students prepare for the Baccalaureate exam. Architecture decisions are recorded as ADRs in the repo.
+
+**Stack:** C# · .NET 10 / .NET Framework 4.8 · ASP.NET Core · EF Core · SQL Server · Docker · Azure · xUnit · Git
+
+[LinkedIn](https://www.linkedin.com/in/fratiman-andrei-04998b193)
